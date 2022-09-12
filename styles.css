@@ -60,6 +60,8 @@ body {
   }
 }
 
+h1 {display: none;}
+
 .cards-container {
   position: relative;
   height: 550px;
